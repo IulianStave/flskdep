@@ -1,1 +1,1 @@
-web: gunicorn wbapp.py: app
+web: gunicorn wbapp: app
